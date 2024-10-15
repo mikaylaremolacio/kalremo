@@ -1,15 +1,15 @@
 Hi there 👋 I'm Kayla!
-I'm a passionate STEM developer dedicated to inspiring the next generation of innovators. With experience in mechatronics and a deep love for teaching, I create fun and interactive projects that make STEM fields accessible to kids and young learners.
+I'm a passionate STEAM developer dedicated to inspiring the next generation of innovators. With experience in mechatronics and a deep love for teaching, I create fun and interactive projects that make STEAM fields accessible to kids and young learners.
 
 
 🔧 Skills & Interests
 
 Mechatronics & Robotics
 Programming & Embedded Systems
-Teaching and mentoring in STEM
+Teaching and mentoring in STEAM
 Photography 📸 | Skateboarding 🛹 | Playing Guitar 🎸
 🌱 Currently working on:
-Building engaging educational tools to spark curiosity in young minds through hands-on STEM experiences.
+Building engaging educational tools to spark curiosity in young minds through hands-on STEAM experiences.
 
 
 📫 How to reach me:
