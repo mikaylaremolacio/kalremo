@@ -4,10 +4,13 @@ I'm a passionate STEAM developer dedicated to inspiring the next generation of i
 
 🔧 Skills & Interests
 
-Mechatronics & Robotics
-Programming & Embedded Systems
-Teaching and mentoring in STEAM
+-Mechatronics & Robotics
+-Programming & Embedded Systems
+-Teaching and mentoring in STEAM
+
 Photography 📸 | Skateboarding 🛹 | Playing Guitar 🎸
+
+
 🌱 Currently working on:
 Building engaging educational tools to spark curiosity in young minds through hands-on STEAM experiences.
 
