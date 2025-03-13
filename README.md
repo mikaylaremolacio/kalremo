@@ -12,4 +12,4 @@ Photography  | Skateboarding  | Playing Guitar
 
 
 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/mikayla-remolacio-205166265/)
+[LinkedIn](https://www.linkedin.com/in/mikayla-remolacio-205166265/) | [Link to School Github](https://github.com/MikaylaRemolacioSecF)
