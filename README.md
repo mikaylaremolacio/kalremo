@@ -1,23 +1,13 @@
-Hi there 👋 I'm Kayla!
-I'm a passionate STEAM developer dedicated to inspiring the next generation of innovators. With experience in mechatronics and a deep love for teaching, I create fun and interactive projects that make STEAM fields accessible to kids and young learners.
+Good day! My name is Mikayla Remolacio. I'm currently studying Computer Programming at Humber Polytechnic. I am a passionate programmer looking to use my skills in C++, Java, JavaScript, HTML, and CSS to build efficient and reliable software. Interested in problem-solving, automation, and improving systems. Seeking opportunities to grow and contribute to exciting tech projects. 
 
-
-🔧 Skills & Interests
-
+Skills & Interests:
 -Mechatronics & Robotics
--Programming & Embedded Systems
--Teaching and mentoring in STEAM
+-Programming
 
-Photography 📸 | Skateboarding 🛹 | Playing Guitar 🎸
+Photography  | Skateboarding  | Playing Guitar 
 
-
-🌱 Currently working on:
-Building engaging educational tools to spark curiosity in young minds through hands-on STEAM experiences.
-
-
-📫 How to reach me:
-
-[LinkedIn](https://www.linkedin.com/in/mikayla-remolacio-205166265/) | [Youtube](https://www.youtube.com/@imjustkayla04) 
+How to reach me:
+[LinkedIn](https://www.linkedin.com/in/mikayla-remolacio-205166265/)
 <!---
 kalremo/kalremo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
